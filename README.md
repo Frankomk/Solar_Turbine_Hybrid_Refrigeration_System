@@ -1,1 +1,3 @@
 # Solar_Turbine_Hybrid_Refrigeration_System
+
+Embrace collaboration
